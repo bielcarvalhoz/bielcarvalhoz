@@ -15,7 +15,7 @@ Me chamo Gabriel Carvalho Fernandes, tenho 21 anos e sou natural de São Paulo. 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
+  <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -128,9 +128,11 @@ Me chamo Gabriel Carvalho Fernandes, tenho 21 anos e sou natural de São Paulo. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
 
+
 <br/>
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
