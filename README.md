@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Carvalho Fernandes, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na Fundação Bradesco (Osasco). Atualmente, estou cursando Ciência da Computação na USTJ (8 Semestre).
+Me chamo Gabriel Carvalho Fernandes, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na Fundação Bradesco (Osasco). Atualmente, estou cursando Ciência da Computação na USTJ (8 Semestre). Trabalho a mais de 2 anos como desenvolvedor Web no banco Bradesco, iniciei essa jornada como estagiário e atualmente estou como junior.
 
 <div> 
   <a href="https://www.instagram.com/biel_cf1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
