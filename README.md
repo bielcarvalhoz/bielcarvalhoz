@@ -129,7 +129,8 @@ Me chamo Gabriel Carvalho Fernandes, tenho 21 anos e sou natural de São Paulo. 
 />
 
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
