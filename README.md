@@ -65,6 +65,14 @@ Me chamo Gabriel Carvalho Fernandes, tenho 21 anos e sou natural de São Paulo. 
 />
 <img 
     align="left" 
+    alt="NextJS" 
+    title="NextJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
