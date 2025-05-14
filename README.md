@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Carvalho  
 
-**`Desenvolvedor FullStack`**  Meu site => <a href="[gabrielcarv.com.br](https://www.gabrielcarv.com.br/)">gabrielcarv.com.br</a>
+**`Desenvolvedor FullStack`**  Meu site => <a target="_blank" href="https://www.gabrielcarv.com.br/">gabrielcarv.com.br</a>
 
 Me chamo Gabriel Carvalho Fernandes, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na Fundação Bradesco (Osasco). Atualmente, estou cursando Ciência da Computação na USTJ (7 Semestre). Trabalho a mais de 2 anos como desenvolvedor Web no banco Bradesco, iniciei essa jornada como estagiário e atualmente estou como junior.
 
