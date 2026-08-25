@@ -150,24 +150,7 @@ Me chamo Gabriel Carvalho Fernandes, tenho 22 anos e sou natural de São Paulo. 
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bielcarvalhoz&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielcarvalhoz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+### Hehe
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bielcarvalhoz/bielcarvalhoz/output/github-snake-dark.svg" />
